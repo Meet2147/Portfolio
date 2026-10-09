@@ -1,0 +1,45 @@
+{
+  "url": "https://codemate.dashovia.app/",
+  "title": "CodeMate — DSA & System Design interview prep, IDE-native",
+  "description": "A native macOS app for DSA and system-design interview prep. Real test-case grading, an on-device AI assistant, an LLD/HLD whiteboard, and a guided roadmap — not another coding website.",
+  "siteName": null,
+  "ogImage": null,
+  "favicon": "https://codemate.dashovia.app/assets/favicon-512.png",
+  "lang": "en",
+  "background": "#0a0a0f",
+  "accent": null,
+  "fonts": {
+    "heading": "-apple-system",
+    "body": "-apple-system"
+  },
+  "h1": "Interview prep that feels like an IDE, not a website.",
+  "headings": [
+    "Built like the tool you already work in",
+    "A guided path, not 100+ problems in a pile",
+    "24 seconds, start to green",
+    "Simple, honest pricing",
+    "Try it today, free"
+  ],
+  "calls": [
+    "CodeMate",
+    "Features",
+    "Roadmap",
+    "Pricing",
+    "Download for Mac",
+    "⌘ Download for Mac — v0.1.0",
+    "Watch the 24s demo",
+    "Monthly",
+    "Yearly — save ~33%",
+    "Download",
+    "Buy Pro",
+    "Buy Max"
+  ],
+  "links": {
+    "appStore": null,
+    "playStore": null,
+    "github": "https://github.com/Meet2147/CodeMate/releases/download/v0.1.0/CodeMate.dmg",
+    "productHunt": null,
+    "chromeStore": null
+  },
+  "scrollHeight": 5604
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://tapri.dashovia.cafe/",
+  "title": "Tapri",
+  "description": "Ten Mac utilities in one native app, named for the spices in a cup of masala chai.",
+  "siteName": null,
+  "ogImage": null,
+  "favicon": "https://tapri.dashovia.cafe/apple-touch-icon.png",
+  "lang": null,
+  "background": "#140f09",
+  "accent": "#c4661a",
+  "fonts": {
+    "heading": "Fraunces",
+    "body": "Karla"
+  },
+  "h1": "Chhalni MENU BAR",
+  "headings": [
+    "Ten spices, one cup."
+  ],
+  "calls": [
+    "Chhalni Menu Bar",
+    "Elaichi Clipboard",
+    "Laung Windows",
+    "Kali Mirch System Monitor",
+    "Adrak Battery & Power",
+    "Saunf Storage & Uninstall",
+    "Kesar Screenshot & OCR",
+    "Tulsi Focus",
+    "Pudina Sound",
+    "Dalchini Notch Shelf",
+    "Subscribe through Polar",
+    "Download for macOS"
+  ],
+  "links": {
+    "appStore": null,
+    "playStore": null,
+    "github": null,
+    "productHunt": null,
+    "chromeStore": null
+  },
+  "scrollHeight": 1569
+}

@@ -1,0 +1,262 @@
+{
+  "owner": {
+    "name": "Meet Jethwa",
+    "handle": "@theogmeet",
+    "role": "Indie developer",
+    "headline": "Small, sharp Mac apps that *stay on your device.*",
+    "bio": "I build native tools that do one job well: recording guides, keeping snippets, fixing posture, deciding what to buy. Most run entirely on your Mac.",
+    "links": [
+      {
+        "label": "X",
+        "url": "https://x.com/theogmeet"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Meet2147"
+      }
+    ],
+    "facts": [
+      {
+        "value": "7",
+        "label": "for macOS"
+      },
+      {
+        "value": "1",
+        "label": "for iOS"
+      }
+    ],
+    "cta": "Using one of these? *Tell me what's missing.*"
+  },
+  "theme": {
+    "mode": "auto",
+    "accent": "#ff5a1f",
+    "featuredCount": 8
+  },
+  "apps": [
+    {
+      "slug": "tapri",
+      "name": "Tapri",
+      "status": "Live",
+      "platforms": [
+        "macOS"
+      ],
+      "tagline": "Ten Mac utilities in one native app.",
+      "description": "Each utility is named for a spice in a cup of masala chai. Switch on the ones you want; anything left off holds no timers and costs nothing.",
+      "highlights": [
+        "Menu bar, clipboard, windows, system monitor, screenshot & OCR, and five more",
+        "One menu bar item, one process, one thing to update",
+        "Four spices free forever"
+      ],
+      "stack": [
+        "Native macOS",
+        "Apple silicon & Intel",
+        "4.9 MB"
+      ],
+      "url": "https://tapri.dashovia.cafe/",
+      "cta": "Visit site",
+      "accent": "#c4661a",
+      "media": {
+        "desktop": "media/tapri/desktop.jpg",
+        "clip": "media/tapri/clip.mp4",
+        "mobile": "media/tapri/mobile.jpg"
+      }
+    },
+    {
+      "slug": "stepwise",
+      "name": "Stepwise",
+      "status": "Live",
+      "platforms": [
+        "macOS"
+      ],
+      "tagline": "Record once. Get the guide.",
+      "description": "Stepwise watches you do a task and writes it up: every click becomes a captioned, screenshotted step you can export as a PDF.",
+      "highlights": [
+        "Captions written from what you actually clicked",
+        "Keeps the screen recording beside the guide",
+        "Your screen never leaves your Mac"
+      ],
+      "stack": [
+        "Native macOS",
+        "On-device",
+        "PDF export"
+      ],
+      "url": "https://stepwise.dashovia.app/",
+      "cta": "Visit site",
+      "accent": "#2d69fa",
+      "media": {
+        "desktop": "media/stepwise/desktop.jpg",
+        "clip": "media/stepwise/clip.mp4",
+        "mobile": "media/stepwise/mobile.jpg"
+      }
+    },
+    {
+      "slug": "cadence",
+      "name": "Cadence",
+      "status": "Live",
+      "platforms": [
+        "macOS"
+      ],
+      "tagline": "Screen guides in 5 steps, 1 minute each.",
+      "description": "A screen recorder that will not let you ramble. Each step auto-stops at 60 seconds, then everything is stitched into one MP4.",
+      "highlights": [
+        "Outline your steps, then record against the clock",
+        "Exports one MP4 with title cards and chapter markers",
+        "No timeline, no editing, no cloud"
+      ],
+      "stack": [
+        "Native macOS",
+        "Apple silicon & Intel",
+        "MP4 export"
+      ],
+      "url": "https://cadence.dashovia.app/",
+      "cta": "Visit site",
+      "accent": "#ff4438",
+      "media": {
+        "desktop": "media/cadence/desktop.jpg",
+        "clip": "media/cadence/clip.mp4",
+        "mobile": "media/cadence/mobile.jpg"
+      }
+    },
+    {
+      "slug": "pickwise",
+      "name": "Pickwise",
+      "status": "Live",
+      "platforms": [
+        "macOS"
+      ],
+      "tagline": "Which one should I buy? Ask once.",
+      "description": "Give Pickwise two to five products and it compares current price, specs and trade-offs, then commits to one verdict with the reasoning.",
+      "highlights": [
+        "A comparison table with honest pros and cons",
+        "One answer instead of thirty tabs of research",
+        "Coming to iPhone"
+      ],
+      "stack": [
+        "Native macOS",
+        "Apple silicon & Intel"
+      ],
+      "url": "https://pickwise.dashovia.app/",
+      "cta": "Visit site",
+      "accent": "#4addff",
+      "media": {
+        "desktop": "media/pickwise/desktop.jpg",
+        "clip": "media/pickwise/clip.mp4",
+        "mobile": "media/pickwise/mobile.jpg"
+      }
+    },
+    {
+      "slug": "codemate",
+      "name": "CodeMate",
+      "status": "Beta",
+      "platforms": [
+        "macOS"
+      ],
+      "tagline": "Interview prep that feels like an IDE, not a website.",
+      "description": "A native Mac app for DSA and system-design prep, with a guided roadmap so you always know what is next.",
+      "highlights": [
+        "Real test-case grading for Swift, Python and JavaScript, run locally",
+        "On-device AI assistant: no API key, no per-message cost",
+        "A whiteboard for LLD and HLD questions"
+      ],
+      "stack": [
+        "Native macOS",
+        "Apple silicon",
+        "On-device AI"
+      ],
+      "url": "https://codemate.dashovia.app/",
+      "cta": "Visit site",
+      "accent": "#8474f2",
+      "media": {
+        "desktop": "media/codemate/desktop.jpg",
+        "clip": "media/codemate/clip.mp4",
+        "mobile": "media/codemate/mobile.jpg"
+      }
+    },
+    {
+      "slug": "cubby",
+      "name": "Cubby",
+      "status": "Live",
+      "platforms": [
+        "macOS"
+      ],
+      "tagline": "Your stuff, in its place. One keystroke away.",
+      "description": "A menu-bar vault for the things you paste every day. Press a hotkey, type to filter, hit return, and it is copied.",
+      "highlights": [
+        "Named compartments for phone numbers, API keys and bank details",
+        "Secrets backed by the macOS Keychain",
+        "No accounts, no servers, no telemetry"
+      ],
+      "stack": [
+        "Native macOS",
+        "Keychain",
+        "On-device"
+      ],
+      "url": "https://cubby.dashovia.app/",
+      "cta": "Visit site",
+      "accent": "#9b6bf4",
+      "media": {
+        "desktop": "media/cubby/desktop.jpg",
+        "clip": "media/cubby/clip.mp4",
+        "mobile": "media/cubby/mobile.jpg"
+      }
+    },
+    {
+      "slug": "cairn",
+      "name": "Cairn",
+      "status": "Pre-order",
+      "platforms": [
+        "macOS"
+      ],
+      "tagline": "Stack your day in balance.",
+      "description": "Desk wellness for macOS. Cairn reads your posture, eyes and screen distance through the webcam and nudges you before the slump sets in.",
+      "highlights": [
+        "Tracks eye strain, screen distance and slouching",
+        "A stretch coach that follows your form",
+        "Every frame analysed on-device; nothing recorded or uploaded"
+      ],
+      "stack": [
+        "Native macOS",
+        "MediaPipe",
+        "On-device AI"
+      ],
+      "url": "https://cairn.dashovia.app/",
+      "cta": "Visit site",
+      "accent": "#e0a04a",
+      "media": {
+        "desktop": "media/cairn/desktop.jpg",
+        "clip": "media/cairn/clip.mp4",
+        "mobile": "media/cairn/mobile.jpg"
+      }
+    },
+    {
+      "slug": "brahma-muhurat",
+      "name": "Brahma Muhurat",
+      "status": "Live",
+      "platforms": [
+        "iOS"
+      ],
+      "tagline": "The 48 minutes before dawn, timed for where you are.",
+      "description": "Brahma Muhurat begins 1 hour 36 minutes before sunrise. The app works out that window for your location, along with the rest of the day's light.",
+      "highlights": [
+        "Timings for today, tomorrow and the day after",
+        "First light, dawn, solar noon, golden hour and dusk",
+        "Moon phase tracker"
+      ],
+      "stack": [
+        "iOS 17.6+",
+        "iPhone & iPad"
+      ],
+      "url": "https://apps.apple.com/in/app/brahma-muhurat/id6743993366",
+      "cta": "View on the App Store",
+      "accent": "#7a5cf0",
+      "media": {
+        "shots": [
+          "media/brahma-muhurat/shot1.jpg",
+          "media/brahma-muhurat/shot2.jpg",
+          "media/brahma-muhurat/shot3.jpg"
+        ],
+        "frame": "none"
+      }
+    }
+  ]
+}

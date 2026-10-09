@@ -1,0 +1,63 @@
+[
+  {
+    "slug": "cadence",
+    "url": "https://cadence.dashovia.app/"
+  },
+  {
+    "slug": "cubby",
+    "url": "https://cubby.dashovia.app/"
+  },
+  {
+    "slug": "stepwise",
+    "url": "https://stepwise.dashovia.app/"
+  },
+  {
+    "slug": "tapri",
+    "url": "https://tapri.dashovia.cafe/",
+    "setup": [
+      {
+        "do": "click",
+        "selector": ".glass-wrap",
+        "ms": 2400
+      }
+    ],
+    "plan": [
+      {
+        "do": "wait",
+        "ms": 700
+      },
+      {
+        "do": "click",
+        "selector": "button:has-text('Elaichi')",
+        "ms": 1100
+      },
+      {
+        "do": "click",
+        "selector": "button:has-text('Kali Mirch')",
+        "ms": 1100
+      },
+      {
+        "do": "click",
+        "selector": "button:has-text('Kesar')",
+        "ms": 1100
+      },
+      {
+        "do": "click",
+        "selector": "button:has-text('Chhalni')",
+        "ms": 900
+      }
+    ]
+  },
+  {
+    "slug": "cairn",
+    "url": "https://cairn.dashovia.app/"
+  },
+  {
+    "slug": "codemate",
+    "url": "https://codemate.dashovia.app/"
+  },
+  {
+    "slug": "pickwise",
+    "url": "https://pickwise.dashovia.app/"
+  }
+]
