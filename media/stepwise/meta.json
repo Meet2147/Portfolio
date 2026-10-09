@@ -1,0 +1,47 @@
+{
+  "url": "https://stepwise.dashovia.app/",
+  "title": "Stepwise: record once, get a step-by-step guide. On your Mac.",
+  "description": "Stepwise turns the clicks you make into a captioned, screenshotted guide, keeps the screen recording, and exports a PDF. A private, on-device Mac app.",
+  "siteName": null,
+  "ogImage": "https://stepwise.dashovia.app/og.png",
+  "favicon": "https://stepwise.dashovia.app/apple-touch-icon.png",
+  "lang": "en",
+  "background": "#ecf0f7",
+  "accent": "#2d69fa",
+  "fonts": {
+    "heading": "ui-rounded",
+    "body": "ui-rounded"
+  },
+  "h1": "Record once. Get the guide.",
+  "headings": [
+    "Documentation that writes itself",
+    "Captions written from what you clicked",
+    "Your screen never leaves your Mac",
+    "Start free. Go Pro when you outgrow it.",
+    "Questions",
+    "Make your next how-to in one take."
+  ],
+  "calls": [
+    "Skip to content",
+    "Stepwise",
+    "Features",
+    "Privacy",
+    "Pricing",
+    "FAQ",
+    "Download",
+    "Download for Mac",
+    "See pricing",
+    "Download free",
+    "Get Pro, $149 a year",
+    "Or $19 a month"
+  ],
+  "links": {
+    "appStore": null,
+    "playStore": null,
+    "github": null,
+    "productHunt": "https://www.producthunt.com/products/stepwise-2?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-stepwise-2",
+    "chromeStore": null
+  },
+  "scrollHeight": 7168,
+  "passedIntro": false
+}

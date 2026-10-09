@@ -1,0 +1,27 @@
+[
+  { "slug": "flex", "url": "https://letsflex.app/",
+    "plan": [
+      { "do": "wait", "ms": 700 },
+      { "do": "type", "selector": "#urls", "text": "https://tapri.dashovia.cafe\nhttps://cubby.dashovia.app", "delay": 28, "ms": 300 },
+      { "do": "click", "selector": ".vibes label:has-text('glass')", "ms": 500 },
+      { "do": "click", "selector": ".vibes label:has-text('apple')", "ms": 500 },
+      { "do": "scroll", "to": "#pricing", "ms": 1500 },
+      { "do": "wait", "ms": 900 },
+      { "do": "scroll", "to": 0, "ms": 900 },
+      { "do": "wait", "ms": 300 }
+    ] },
+  { "slug": "tapri", "url": "https://tapri.dashovia.cafe/",
+    "plan": [
+      { "do": "wait", "ms": 700 },
+      { "do": "click", "selector": "button:has-text('Elaichi')", "ms": 1100 },
+      { "do": "click", "selector": "button:has-text('Kali Mirch')", "ms": 1100 },
+      { "do": "click", "selector": "button:has-text('Kesar')", "ms": 1100 },
+      { "do": "click", "selector": "button:has-text('Chhalni')", "ms": 900 }
+    ] },
+  { "slug": "stepwise", "url": "https://stepwise.dashovia.app/" },
+  { "slug": "cadence", "url": "https://cadence.dashovia.app/" },
+  { "slug": "pickwise", "url": "https://pickwise.dashovia.app/" },
+  { "slug": "codemate", "url": "https://codemate.dashovia.app/" },
+  { "slug": "cubby", "url": "https://cubby.dashovia.app/" },
+  { "slug": "cairn", "url": "https://cairn.dashovia.app/" }
+]

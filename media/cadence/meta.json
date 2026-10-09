@@ -1,0 +1,44 @@
+{
+  "url": "https://cadence.dashovia.app/",
+  "title": "Cadence — Screen guides in 5 steps, 1 minute each",
+  "description": "Cadence records structured screen guides: 5 steps, a hard 1-minute cap per step, stitched into one MP4. No editing. No cloud. One-time price.",
+  "siteName": "Cadence",
+  "ogImage": "https://cadence.dashovia.app/assets/og.png",
+  "favicon": "https://cadence.dashovia.app/assets/apple-touch-icon.png",
+  "lang": "en",
+  "background": "#0b0a10",
+  "accent": "#ff4438",
+  "fonts": {
+    "heading": "Bricolage Grotesque",
+    "body": "Instrument Sans"
+  },
+  "h1": "Screen guides in 5 steps. 1 minute each. Done.",
+  "headings": [
+    "Record. Stop. Done.",
+    "The constraint is the edit.",
+    "Built for guides, not for footage.",
+    "Small app. Sharp tool.",
+    "Pay once. Own it."
+  ],
+  "calls": [
+    "Cadence",
+    "How it works",
+    "vs. the rest",
+    "Pricing",
+    "Download free",
+    "or watch the 60s demo ↓",
+    "get your key",
+    "Notify me",
+    "@theogmeet on X",
+    "support"
+  ],
+  "links": {
+    "appStore": null,
+    "playStore": null,
+    "github": null,
+    "productHunt": "https://www.producthunt.com/products/cadence-12?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-cadence-14",
+    "chromeStore": null
+  },
+  "scrollHeight": 5703,
+  "passedIntro": false
+}

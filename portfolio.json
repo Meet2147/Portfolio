@@ -1,0 +1,271 @@
+{
+  "owner": {
+    "name": "Meet Jethwa",
+    "handle": "@theogmeet",
+    "role": "Indie developer",
+    "headline": "small, sharp tools. *eight of them.*",
+    "bio": "Seven native Mac apps that stay on your device, and flex, the thing that built this page.",
+    "links": [
+      {
+        "label": "X",
+        "url": "https://x.com/theogmeet"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Meet2147"
+      }
+    ],
+    "facts": [
+      {
+        "value": "7",
+        "label": "for macOS"
+      },
+      {
+        "value": "1",
+        "label": "for the web"
+      }
+    ],
+    "cta": "using one of these? *tell me what's missing.*"
+  },
+  "theme": {
+    "style": "genz",
+    "accent": "#ff4d00",
+    "featuredCount": 8
+  },
+  "apps": [
+    {
+      "slug": "flex",
+      "name": "flex",
+      "year": 2026,
+      "status": "Live",
+      "platforms": [
+        "Web",
+        "Agent skill"
+      ],
+      "tagline": "You shipped it. Now flex.",
+      "description": "Paste your app links and get one portfolio page with real screenshots and a clip of every app. No template to fill in, no screenshots to take.",
+      "highlights": [
+        "Seven looks, from gen z to glass",
+        "Clicks through intro screens on its own",
+        "Free for 3 apps, $29 once for 12"
+      ],
+      "stack": [
+        "Node.js",
+        "Hono",
+        "Playwright",
+        "FFmpeg",
+        "Claude API",
+        "Polar"
+      ],
+      "url": "https://letsflex.app/",
+      "cta": "Make yours",
+      "links": [
+        {
+          "label": "Free skill on GitHub",
+          "url": "https://github.com/Meet2147/flex"
+        }
+      ],
+      "accent": "#ff4d00",
+      "media": {
+        "desktop": "media/flex/desktop.jpg",
+        "mobile": "media/flex/mobile.jpg",
+        "clip": "media/flex/clip.mp4"
+      }
+    },
+    {
+      "slug": "tapri",
+      "name": "Tapri",
+      "status": "Live",
+      "platforms": [
+        "macOS"
+      ],
+      "tagline": "Ten Mac utilities in one native app.",
+      "description": "Each utility is named for a spice in a cup of masala chai. Switch on the ones you want; anything left off holds no timers and costs nothing.",
+      "highlights": [
+        "Menu bar, clipboard, windows, system monitor, screenshot & OCR, and five more",
+        "One menu bar item, one process, one thing to update",
+        "Four spices free forever"
+      ],
+      "stack": [
+        "Native macOS",
+        "Apple silicon & Intel",
+        "4.9 MB"
+      ],
+      "url": "https://tapri.dashovia.cafe/",
+      "cta": "Visit site",
+      "accent": "#c4661a",
+      "media": {
+        "desktop": "media/tapri/desktop.jpg",
+        "mobile": "media/tapri/mobile.jpg",
+        "clip": "media/tapri/clip.mp4"
+      }
+    },
+    {
+      "slug": "stepwise",
+      "name": "Stepwise",
+      "status": "Live",
+      "platforms": [
+        "macOS"
+      ],
+      "tagline": "Record once. Get the guide.",
+      "description": "Stepwise watches you do a task and writes it up: every click becomes a captioned, screenshotted step you can export as a PDF.",
+      "highlights": [
+        "Captions written from what you actually clicked",
+        "Keeps the screen recording beside the guide",
+        "Your screen never leaves your Mac"
+      ],
+      "stack": [
+        "Native macOS",
+        "On-device",
+        "PDF export"
+      ],
+      "url": "https://stepwise.dashovia.app/",
+      "cta": "Visit site",
+      "accent": "#2d69fa",
+      "media": {
+        "desktop": "media/stepwise/desktop.jpg",
+        "mobile": "media/stepwise/mobile.jpg",
+        "clip": "media/stepwise/clip.mp4"
+      }
+    },
+    {
+      "slug": "cadence",
+      "name": "Cadence",
+      "status": "Live",
+      "platforms": [
+        "macOS"
+      ],
+      "tagline": "Screen guides in 5 steps, 1 minute each.",
+      "description": "A screen recorder that will not let you ramble. Each step auto-stops at 60 seconds, then everything is stitched into one MP4.",
+      "highlights": [
+        "Outline your steps, then record against the clock",
+        "Exports one MP4 with title cards and chapter markers",
+        "No timeline, no editing, no cloud"
+      ],
+      "stack": [
+        "Native macOS",
+        "Apple silicon & Intel",
+        "MP4 export"
+      ],
+      "url": "https://cadence.dashovia.app/",
+      "cta": "Visit site",
+      "accent": "#ff4438",
+      "media": {
+        "desktop": "media/cadence/desktop.jpg",
+        "mobile": "media/cadence/mobile.jpg",
+        "clip": "media/cadence/clip.mp4"
+      }
+    },
+    {
+      "slug": "pickwise",
+      "name": "Pickwise",
+      "status": "Live",
+      "platforms": [
+        "macOS"
+      ],
+      "tagline": "Which one should I buy? Ask once.",
+      "description": "Give Pickwise two to five products and it compares current price, specs and trade-offs, then commits to one verdict with the reasoning.",
+      "highlights": [
+        "A comparison table with honest pros and cons",
+        "One answer instead of thirty tabs of research",
+        "Coming to iPhone"
+      ],
+      "stack": [
+        "Native macOS",
+        "Apple silicon & Intel"
+      ],
+      "url": "https://pickwise.dashovia.app/",
+      "cta": "Visit site",
+      "accent": "#4addff",
+      "media": {
+        "desktop": "media/pickwise/desktop.jpg",
+        "mobile": "media/pickwise/mobile.jpg",
+        "clip": "media/pickwise/clip.mp4"
+      }
+    },
+    {
+      "slug": "codemate",
+      "name": "CodeMate",
+      "status": "Beta",
+      "platforms": [
+        "macOS"
+      ],
+      "tagline": "Interview prep that feels like an IDE, not a website.",
+      "description": "A native Mac app for DSA and system-design prep, with a guided roadmap so you always know what is next.",
+      "highlights": [
+        "Real test-case grading for Swift, Python and JavaScript, run locally",
+        "On-device AI assistant: no API key, no per-message cost",
+        "A whiteboard for LLD and HLD questions"
+      ],
+      "stack": [
+        "Native macOS",
+        "Apple silicon",
+        "On-device AI"
+      ],
+      "url": "https://codemate.dashovia.app/",
+      "cta": "Visit site",
+      "accent": "#8474f2",
+      "media": {
+        "desktop": "media/codemate/desktop.jpg",
+        "mobile": "media/codemate/mobile.jpg",
+        "clip": "media/codemate/clip.mp4"
+      }
+    },
+    {
+      "slug": "cubby",
+      "name": "Cubby",
+      "status": "Live",
+      "platforms": [
+        "macOS"
+      ],
+      "tagline": "Your stuff, in its place. One keystroke away.",
+      "description": "A menu-bar vault for the things you paste every day. Press a hotkey, type to filter, hit return, and it is copied.",
+      "highlights": [
+        "Named compartments for phone numbers, API keys and bank details",
+        "Secrets backed by the macOS Keychain",
+        "No accounts, no servers, no telemetry"
+      ],
+      "stack": [
+        "Native macOS",
+        "Keychain",
+        "On-device"
+      ],
+      "url": "https://cubby.dashovia.app/",
+      "cta": "Visit site",
+      "accent": "#9b6bf4",
+      "media": {
+        "desktop": "media/cubby/desktop.jpg",
+        "mobile": "media/cubby/mobile.jpg",
+        "clip": "media/cubby/clip.mp4"
+      }
+    },
+    {
+      "slug": "cairn",
+      "name": "Cairn",
+      "status": "Pre-order",
+      "platforms": [
+        "macOS"
+      ],
+      "tagline": "Stack your day in balance.",
+      "description": "Desk wellness for macOS. Cairn reads your posture, eyes and screen distance through the webcam and nudges you before the slump sets in.",
+      "highlights": [
+        "Tracks eye strain, screen distance and slouching",
+        "A stretch coach that follows your form",
+        "Every frame analysed on-device; nothing recorded or uploaded"
+      ],
+      "stack": [
+        "Native macOS",
+        "MediaPipe",
+        "On-device AI"
+      ],
+      "url": "https://cairn.dashovia.app/",
+      "cta": "Visit site",
+      "accent": "#e0a04a",
+      "media": {
+        "desktop": "media/cairn/desktop.jpg",
+        "mobile": "media/cairn/mobile.jpg",
+        "clip": "media/cairn/clip.mp4"
+      }
+    }
+  ]
+}

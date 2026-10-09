@@ -1,0 +1,45 @@
+{
+  "url": "https://letsflex.app/",
+  "title": "/flex — you shipped it. now flex.",
+  "description": "Paste your app links, get one portfolio page with real screenshots and a clip of every app. Free for 3 apps, $29 once for 12.",
+  "siteName": null,
+  "ogImage": "https://letsflex.app/example/og.jpg",
+  "favicon": "https://letsflex.app/favicon.svg",
+  "lang": "en",
+  "background": "#ffffff",
+  "accent": "#ff4d00",
+  "fonts": {
+    "heading": "Bricolage Grotesque",
+    "body": "ui-sans-serif"
+  },
+  "h1": "you shipped it. now flex.",
+  "headings": [
+    "paste.",
+    "pay.",
+    "flex.",
+    "free to run yourself. cheap to have us run it."
+  ],
+  "calls": [
+    "/flex",
+    "pricing",
+    "example",
+    "github",
+    "flex for me · $29 →",
+    "terms",
+    "acceptable use policy",
+    "made from 8 links ↗",
+    "install",
+    "start free",
+    "get a page pass",
+    "tell me when it opens"
+  ],
+  "links": {
+    "appStore": null,
+    "playStore": null,
+    "github": "https://github.com/Meet2147/flex",
+    "productHunt": null,
+    "chromeStore": null
+  },
+  "scrollHeight": 2943,
+  "passedIntro": false
+}
